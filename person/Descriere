@@ -1,0 +1,8 @@
+Programul meu în Java reprezintă o simulare a unui bancomat (ATM).
+Scopul acestui program este de a oferi utilizatorilor posibilitatea de a
+efectua operațiuni bancare de bază, cum ar fi retrageri de numerar, verificarea
+soldului și depuneri de numerar.
+
+Structura programului este modulară și bine organizată pentru a facilita înțelegerea
+și extinderea sa ulterioară. Folosind principiile programării orientate pe obiect,
+am creat clase separate pentru cardul bancar, contul bancar și bancomat.
